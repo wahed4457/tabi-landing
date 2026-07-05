@@ -44,3 +44,4 @@ vercel.json     # Static hosting hints
 ## Security
 
 Do not commit Supabase service role keys or backend secrets. This repo should only contain public marketing assets and public URLs.
+
